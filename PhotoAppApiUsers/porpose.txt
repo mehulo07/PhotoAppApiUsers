@@ -1,0 +1,5 @@
+1>Create User
+2>User Authentication & Authorization
+3> Get User detail
+4> UPdate users 
+5> Delete users
